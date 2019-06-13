@@ -1,0 +1,2 @@
+python3 train_nature_map32_diff_res_pro.py
+python3 train_nature_map32_diff_res_pro_1.py
