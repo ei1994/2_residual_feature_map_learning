@@ -1,0 +1,42 @@
+field    epoch: 1
+num correct: 225127/240896     match precision : 0.9345402165249734     res_num correct: 225127/240896     match_res precision : 0.9424897051009564     pro_num correct: 226975/240896     match_pro precision : 0.9422115767800212    match_diff fpr95 : 9.331782881348893     match_diff_res fpr95 : 7.190497944266788     match_diff_pro fpr95 : 7.090826030981353
+
+forest    epoch: 1
+num correct: 363507/376832     match precision : 0.9646394149116848     res_num correct: 363507/376832     match_res precision : 0.9754505986752717     pro_num correct: 367675/376832     match_pro precision : 0.9757000467051631    match_diff fpr95 : 2.0944242456410396     match_diff_res fpr95 : 0.5153791035269765     match_diff_pro fpr95 : 0.5413869058676787
+
+indoor    epoch: 1
+num correct: 57524/60672     match precision : 0.9481144514767933     res_num correct: 57524/60672     match_res precision : 0.964151503164557     pro_num correct: 58460/60672     match_pro precision : 0.9635416666666666    match_diff fpr95 : 4.963204963204963     match_diff_res fpr95 : 2.112002112002112     match_diff_pro fpr95 : 2.2836022836022836
+
+mountain    epoch: 1
+num correct: 143762/151296     match precision : 0.9502035744500846     res_num correct: 143762/151296     match_res precision : 0.9530787330795262     pro_num correct: 144372/151296     match_pro precision : 0.9542354060913706    match_diff fpr95 : 4.898148148148148     match_diff_res fpr95 : 4.357142857142858     match_diff_pro fpr95 : 3.8148148148148144
+
+oldbuilding    epoch: 1
+num correct: 97004/101376     match precision : 0.9568734217171717     res_num correct: 97004/101376     match_res precision : 0.9661655618686869     pro_num correct: 97881/101376     match_pro precision : 0.965524384469697    match_diff fpr95 : 3.2317927862120706     match_diff_res fpr95 : 1.674135786626656     match_diff_pro fpr95 : 1.719542771405445
+
+street    epoch: 1
+num correct: 157187/164608     match precision : 0.9549171364696734     res_num correct: 157187/164608     match_res precision : 0.9663928849144634     pro_num correct: 158950/164608     match_pro precision : 0.9656274300155521    match_diff fpr95 : 3.747220568401356     match_diff_res fpr95 : 1.6038687257748996     match_diff_pro fpr95 : 1.6719116414138344
+
+urban    epoch: 1
+num correct: 143809/147712     match precision : 0.9735769605719238     res_num correct: 143809/147712     match_res precision : 0.9807463171577123     pro_num correct: 144886/147712     match_pro precision : 0.9808681759098787    match_diff fpr95 : 1.3892838282487712     match_diff_res fpr95 : 0.7257857036465315     match_diff_pro fpr95 : 0.7772406602483379
+
+water    epoch: 1
+num correct: 134263/143104     match precision : 0.9382197562611807     res_num correct: 134263/143104     match_res precision : 0.9545715004472272     pro_num correct: 136347/143104     match_pro precision : 0.9527825916815742    match_diff fpr95 : 5.215787119856887     match_diff_res fpr95 : 3.120807245080501     match_diff_pro fpr95 : 3.152951699463327
+
+field    epoch: 1
+num correct: 225127/240896     match precision : 0.9345402165249734     res_num correct: 225127/240896     match_res precision : 0.9424897051009564     pro_num correct: 226975/240896     match_pro precision : 0.9422115767800212    field    tp: 111469    tn: 115573    fp: 4890    fn: 8935forest    epoch: 1
+num correct: 363507/376832     match precision : 0.9646394149116848     res_num correct: 363507/376832     match_res precision : 0.9754505986752717     pro_num correct: 367675/376832     match_pro precision : 0.9757000467051631    forest    tp: 181774    tn: 185807    fp: 2504    fn: 6621indoor    epoch: 1
+num correct: 57524/60672     match precision : 0.9481144514767933     res_num correct: 57524/60672     match_res precision : 0.964151503164557     pro_num correct: 58460/60672     match_pro precision : 0.9635416666666666    indoor    tp: 29343    tn: 29154    fp: 1186    fn: 954mountain    epoch: 1
+num correct: 143762/151296     match precision : 0.9502035744500846     res_num correct: 143762/151296     match_res precision : 0.9530787330795262     pro_num correct: 144372/151296     match_pro precision : 0.9542354060913706    mountain    tp: 70080    tn: 74117    fp: 1308    fn: 5520oldbuilding    epoch: 1
+num correct: 97004/101376     match precision : 0.9568734217171717     res_num correct: 97004/101376     match_res precision : 0.9661655618686869     pro_num correct: 97881/101376     match_pro precision : 0.965524384469697    oldbuilding    tp: 48089    tn: 49857    fp: 862    fn: 2557street    epoch: 1
+num correct: 157188/164608     match precision : 0.9549232115085536     res_num correct: 157188/164608     match_res precision : 0.9663989599533437     pro_num correct: 158951/164608     match_pro precision : 0.9656335050544324    street    tp: 77716    tn: 81361    fp: 1066    fn: 4583urban    epoch: 1
+num correct: 143809/147712     match precision : 0.9735769605719238     res_num correct: 143809/147712     match_res precision : 0.9807463171577123     pro_num correct: 144886/147712     match_pro precision : 0.9808681759098787    urban    tp: 72802    tn: 72066    fp: 1765    fn: 1049water    epoch: 1
+num correct: 134263/143104     match precision : 0.9382197562611807     res_num correct: 134263/143104     match_res precision : 0.9545715004472272     pro_num correct: 136347/143104     match_pro precision : 0.9527825916815742    water    tp: 66188    tn: 70415    fp: 1393    fn: 5360field    epoch: 1
+num correct: 225127/240896     match precision : 0.9345402165249734     res_num correct: 225127/240896     match_res precision : 0.9424897051009564     pro_num correct: 226975/240896     match_pro precision : 0.9422115767800212    field    tp: 111469    tn: 115506    fp: 4890    fn: 8935forest    epoch: 1
+num correct: 363507/376832     match precision : 0.9646394149116848     res_num correct: 363507/376832     match_res precision : 0.9754505986752717     pro_num correct: 367675/376832     match_pro precision : 0.9757000467051631    forest    tp: 181774    tn: 185901    fp: 2504    fn: 6621indoor    epoch: 1
+num correct: 57524/60672     match precision : 0.9481144514767933     res_num correct: 57524/60672     match_res precision : 0.964151503164557     pro_num correct: 58460/60672     match_pro precision : 0.9635416666666666    indoor    tp: 29342    tn: 29118    fp: 1186    fn: 954mountain    epoch: 1
+num correct: 143762/151296     match precision : 0.9502035744500846     res_num correct: 143762/151296     match_res precision : 0.9530787330795262     pro_num correct: 144372/151296     match_pro precision : 0.9542354060913706    mountain    tp: 70080    tn: 74292    fp: 1308    fn: 5520oldbuilding    epoch: 1
+num correct: 97004/101376     match precision : 0.9568734217171717     res_num correct: 97004/101376     match_res precision : 0.9661655618686869     pro_num correct: 97881/101376     match_pro precision : 0.965524384469697    oldbuilding    tp: 48090    tn: 49791    fp: 862    fn: 2557street    epoch: 1
+num correct: 157188/164608     match precision : 0.9549232115085536     res_num correct: 157188/164608     match_res precision : 0.9663989599533437     pro_num correct: 158951/164608     match_pro precision : 0.9656335050544324    street    tp: 77716    tn: 81235    fp: 1066    fn: 4583urban    epoch: 1
+num correct: 143809/147712     match precision : 0.9735769605719238     res_num correct: 143809/147712     match_res precision : 0.9807463171577123     pro_num correct: 144886/147712     match_pro precision : 0.9808681759098787    urban    tp: 72801    tn: 72085    fp: 1765    fn: 1049water    epoch: 1
+num correct: 134263/143104     match precision : 0.9382197562611807     res_num correct: 134263/143104     match_res precision : 0.9545715004472272     pro_num correct: 136347/143104     match_pro precision : 0.9527825916815742    water    tp: 66188    tn: 70159    fp: 1393    fn: 5360field    epoch: 1
+num correct: 225127/240896     match precision : 0.9345402165249734     res_num correct: 225127/240896     match_res precision : 0.9424897051009564     pro_num correct: 226975/240896     match_pro precision : 0.9422115767800212    field    tp: 111469    tn: 115506    fp: 4890    fn: 8935

@@ -1,0 +1,24 @@
+field    epoch: 1
+num correct: 223649/240896     match precision : 0.9284047887885228     res_num correct: 223649/240896     match_res precision : 0.9284047887885228    field    tp: 113046    tn: 112372    fp: 8023    fn: 7359match fpr95 : 11.618422691972258     match_res fpr95 : 8.75285518501599
+
+forest    epoch: 1
+num correct: 363772/376832     match precision : 0.9653426460597826     res_num correct: 363772/376832     match_res precision : 0.9653426460597826    forest    tp: 185094    tn: 183773    fp: 4632    fn: 3301match fpr95 : 2.0079084949974786     match_res fpr95 : 0.18895464557734667
+
+indoor    epoch: 1
+num correct: 57992/60672     match precision : 0.95582805907173     res_num correct: 57992/60672     match_res precision : 0.95582805907173    indoor    tp: 29058    tn: 29224    fp: 1080    fn: 1238match fpr95 : 3.9367740232312562     match_res fpr95 : 2.6828141499472014
+
+mountain    epoch: 1
+num correct: 143465/151296     match precision : 0.9482405351099831     res_num correct: 143465/151296     match_res precision : 0.9482405351099831    mountain    tp: 70859    tn: 72424    fp: 3176    fn: 4741match fpr95 : 6.272486772486772     match_res fpr95 : 6.363756613756613
+
+oldbuilding    epoch: 1
+num correct: 97218/101376     match precision : 0.958984375     res_num correct: 97218/101376     match_res precision : 0.958984375    oldbuilding    tp: 47967    tn: 49196    fp: 1458    fn: 2679match fpr95 : 2.8625577446993327     match_res fpr95 : 3.243574051407589
+
+street    epoch: 1
+num correct: 157060/164608     match precision : 0.9541456065318819     res_num correct: 157060/164608     match_res precision : 0.9541456065318819    street    tp: 78385    tn: 80192    fp: 2108    fn: 3915match fpr95 : 3.793438639125152     match_res fpr95 : 2.2916160388821387
+
+urban    epoch: 1
+num correct: 143784/147712     match precision : 0.973407712305026     res_num correct: 143784/147712     match_res precision : 0.973407712305026    urban    tp: 72842    tn: 71759    fp: 2090    fn: 1009match fpr95 : 1.4854635810911454     match_res fpr95 : 0.6350796896369619
+
+water    epoch: 1
+num correct: 134392/143104     match precision : 0.939121198568873     res_num correct: 134392/143104     match_res precision : 0.939121198568873    water    tp: 66603    tn: 69458    fp: 2094    fn: 4945match fpr95 : 6.514143559928444     match_res fpr95 : 4.613427996422183
+

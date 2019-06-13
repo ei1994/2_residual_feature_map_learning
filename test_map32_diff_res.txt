@@ -1,0 +1,24 @@
+field    epoch: 1
+num correct: 225466/240896     match precision : 0.935947462805526     res_num correct: 225466/240896     match_res precision : 0.935947462805526    field    tp: 110412    tn: 116148    fp: 4248    fn: 9992match_diff fpr95 : 8.462905744376888     match_diff_res fpr95 : 7.988637496262334
+
+forest    epoch: 1
+num correct: 365220/376832     match precision : 0.9691852072010869     res_num correct: 365220/376832     match_res precision : 0.9691852072010869    forest    tp: 181778    tn: 186325    fp: 2080    fn: 6617match_diff fpr95 : 0.9967888325681377     match_diff_res fpr95 : 0.4134709800695311
+
+indoor    epoch: 1
+num correct: 57750/60672     match precision : 0.9518393987341772     res_num correct: 57750/60672     match_res precision : 0.9518393987341772    indoor    tp: 29459    tn: 28912    fp: 1392    fn: 837match_diff fpr95 : 4.349260823653643     match_diff_res fpr95 : 2.5409186906019006
+
+mountain    epoch: 1
+num correct: 144041/151296     match precision : 0.9520476417089678     res_num correct: 144041/151296     match_res precision : 0.9520476417089678    mountain    tp: 70123    tn: 74065    fp: 1535    fn: 5477match_diff fpr95 : 5.173280423280423     match_diff_res fpr95 : 4.416666666666667
+
+oldbuilding    epoch: 1
+num correct: 97568/101376     match precision : 0.9624368686868687     res_num correct: 97568/101376     match_res precision : 0.9624368686868687    oldbuilding    tp: 48155    tn: 49739    fp: 915    fn: 2491match_diff fpr95 : 2.394677616772614     match_diff_res fpr95 : 1.7530698464089705
+
+street    epoch: 1
+num correct: 157961/164608     match precision : 0.959619216562986     res_num correct: 157961/164608     match_res precision : 0.959619216562986    street    tp: 78032    tn: 80538    fp: 1763    fn: 4267match_diff fpr95 : 3.1214687549361493     match_diff_res fpr95 : 2.2369108516299927
+
+urban    epoch: 1
+num correct: 143739/147712     match precision : 0.97310306542461     res_num correct: 143739/147712     match_res precision : 0.97310306542461    urban    tp: 72791    tn: 71849    fp: 2001    fn: 1059match_diff fpr95 : 1.4041976980365605     match_diff_res fpr95 : 1.048070412999323
+
+water    epoch: 1
+num correct: 136435/143104     match precision : 0.9533975290697675     res_num correct: 136435/143104     match_res precision : 0.9533975290697675    water    tp: 67267    tn: 69832    fp: 1720    fn: 4281match_diff fpr95 : 4.156417710196781     match_diff_res fpr95 : 2.911169499105546
+
